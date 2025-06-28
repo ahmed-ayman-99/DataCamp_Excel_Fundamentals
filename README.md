@@ -26,7 +26,7 @@ This comprehensive skill track equipped me with core Excel skills, including:
 ---
 ![Excel Screenshot](Screenshots/DataCamp1.jpg)
 
-![Excel Screenshot](Screenshots/DataCamp7.jpg)
+![Excel Screenshot](Screenshots/DataCamp6.jpg)
 
 ![Excel Screenshot](Screenshots/DataCamp8.jpg)
 
