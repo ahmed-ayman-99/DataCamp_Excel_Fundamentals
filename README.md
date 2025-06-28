@@ -24,6 +24,13 @@ This comprehensive skill track equipped me with core Excel skills, including:
 * **Case Study: Analyzing Customer Churn In Excel:** Applying learned skills to a real-world scenario to identify and analyze customer churn patterns.
 
 ---
+![Excel Screenshot](Screenshots/DataCamp1.jpg)
+
+![Excel Screenshot](Screenshots/DataCamp7.jpg)
+
+![Excel Screenshot](Screenshots/DataCamp8.jpg)
+
+---
 
 ## Verification / Credential
 
@@ -37,7 +44,7 @@ You can verify the completion of this skill track through the official DataCamp 
 
 If you'd like to view the full PDF certificate, it can be found here:
 
-* [Download PDF Certificate](Excel_Fundamentals_Certificate.pdf)
+* [PDF Certificate](Excel_Fundamentals_Certificate.pdf)
 
 ---
 
